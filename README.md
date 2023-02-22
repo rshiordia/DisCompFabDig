@@ -7,7 +7,7 @@
 
 ## Temario
 
-* [Geometría Computacional] (/GC.html)
+* [Geometría Computacional] (GC.html)
 * Programación Visual
 * Simulación computacional
 * Fabricación Digital Sustractiva
