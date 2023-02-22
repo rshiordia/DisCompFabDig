@@ -1,6 +1,6 @@
-# DisCompFabDig
-Este es un repositorio de mi trabajo alrededor del diseño computacional y fabricación digital. El objetivo es apoyar mi trabajo como educador.
+# Workshop PUEA EDCL 2023
+![flyer curso](images/flyer.JPG)
 
 ## Acerca de...
-* Este repositorio contiene definiciones de grasshopper y presentaciones.  
+* [Video Workshop PUEA 2023](https://redanahuac.zoom.us/j/9185848859)
 
