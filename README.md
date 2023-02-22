@@ -7,7 +7,7 @@
 
 ## Temario
 
-* [Geometría Computacional] (https://rshiordia.github.io/DisCompFabDig/GC.html)
+* [Geometría Computacional](GC.html)
 * Programación Visual
 * Simulación computacional
 * Fabricación Digital Sustractiva
