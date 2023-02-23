@@ -14,7 +14,7 @@
 ## Temario
 
 * [Geometría Computacional](GC.html)
-* Programación Visual
+* [Programación Visual](https://www.grasshopper3d.com/page/tutorials-1)
 * Simulación computacional
 * Fabricación Digital Sustractiva
 * Fabricación Digital Aditiva
