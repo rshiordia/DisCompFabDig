@@ -9,7 +9,7 @@
 
 ## Sesiones presenciales | Cómo llegar | Acceso al campus
 * Las sesiones presenciales serán en el Fablab 2.0, en el sótano del edificio 17 de la Universidad Anáhuac Campus Norte. La dirección es: [Av. Universidad Anáhuac 46, Lomas Anahuac, 52786 Naucalpan de Juárez, Méx.](https://goo.gl/maps/qPTfrtUPhF9Vm4aH8)
-* Para ingresar a la universidad, es necesario llenar el [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=l2uNDV3gDEa2tRm30CD0eqDlmO97gQdBovZv0Skd3ZlUM085RDVLQUk1UjA0T0dLQjJLSzAxNjYzRC4u) con tus datos. Yo enviaré tus datos al departamento correspondiente y recibirás un vínculo para responder al cuestionario de salud de la Universidad que te permitirá descargar un código QR en tu celular para ingresar. Cada persona que venga debe tener su código de acceso. 
+* Para ingresar a la universidad, es necesario llenar  <a href="https://forms.office.com/r/H7EjEECHP6" target="_blank">este formulario</a> con tus datos. Yo enviaré tus datos al departamento correspondiente y recibirás un vínculo para responder al cuestionario de salud de la Universidad que te permitirá descargar un código QR en tu celular para ingresar. Cada persona que venga debe tener su código de acceso. 
 
 ## Temario
 
