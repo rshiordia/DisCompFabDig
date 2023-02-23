@@ -1,5 +1,5 @@
 # Workshop PUEA EDCL 2023
-<img src="images/flyer.JPG" width="660" height= "1020">
+<img src="images/flyer.JPG" width="50%">
 
 ## Acerca de...
 * [Videoconferencia](https://redanahuac.zoom.us/j/9185848859)
