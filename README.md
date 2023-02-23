@@ -2,7 +2,7 @@
 <img src="images/flyer.JPG" width="660" height= "1020">
 
 ## Acerca de...
-* [Video Workshop PUEA 2023](https://redanahuac.zoom.us/j/9185848859)
+* [Videoconferencia](https://redanahuac.zoom.us/j/9185848859)
 * Este workshop busca estudiar los principios del pensamiento computacional y la fabricación digital aplicados al diseño de cubiertas ligeras.
 * Serán dos sesiones a distancia y dos sesiones presenciales. En esta página se subirán todos los materiales y archivos del taller. 
 * Es necesario contar con una computadora con Rhinoceros 6 o 7 instalado. 
