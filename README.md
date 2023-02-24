@@ -13,9 +13,8 @@
 
 ## Temario
 
+Semana 1
 * [Geometría Computacional](GC.html)
 * [Programación Visual](https://www.grasshopper3d.com/page/tutorials-1)
-* Simulación computacional
-* Fabricación Digital Sustractiva
-* Fabricación Digital Aditiva
-* Fabricación Robótica
+* [Fabricación Robótica](https://www.dropbox.com/s/i4cge8teqx8kz3q/Fab%20Rob%20PUEA%20EDCL%202023.pdf?dl=0)
+* [Impresión 3d Avanzada con Grasshopper](https://www.dropbox.com/sh/ci6zlisbfmepd8l/AACfEF06ASlGRxR527pGppZ9a?dl=0)
