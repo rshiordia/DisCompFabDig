@@ -4,7 +4,7 @@
 
 ## Acerca de...
 * Workshop de cascarones reticulados
-* [archivo de grasshopper](/introduccion a grasshopper kangaroo.gh)
+* [archivo de grasshopper](/introduccion%20a%20grasshopper%20kangaroo.gh)
 
 
 
