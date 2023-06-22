@@ -6,3 +6,6 @@ En primavera 2023 me invitaron a impartir un corto workshop en la Universidad An
 
 ## Workshop PUEA 2023 
 Como parte de mi colaboración en la clase de Morfogénesis de impartí [este workshop](./PUEA2023.md) a mis compañeros de la especialización en diseño de cubiertas ligeras. 
+
+## Workshop digital Futures 2023
+En julio de 2023 impartiré [este workshop](https://rshiordia.github.io/DF2023/) junto con Rafael Ramos y Enrique Hernández.
